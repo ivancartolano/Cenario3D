@@ -1,0 +1,1615 @@
+﻿Log file open, 05/16/21 11:56:37
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: cenario3D
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.035499
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Engine.ini]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Engine.ini]
+[2021.05.16-14.56.44:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Engine.ini]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Engine.ini]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.16-14.56.44:926][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.16-14.56.44:927][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.16-14.56.44:927][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.16-14.56.44:927][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.16-14.56.44:927][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.16-14.56.44:927][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.16-14.56.44:927][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.16-14.56.44:927][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.16-14.56.44:927][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.16-14.56.44:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Engine.ini]
+[2021.05.16-14.56.44:927][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Engine.ini]
+[2021.05.16-14.56.44:935][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:935][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.16-14.56.44:935][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.16-14.56.44:935][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:935][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.16-14.56.44:935][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:935][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.16-14.56.44:935][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.16-14.56.44:935][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.16-14.56.44:935][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.16-14.56.44:935][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.16-14.56.44:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.16-14.56.44:937][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.16-14.56.44:938][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.16-14.56.44:938][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.16-14.56.44:938][  0]LogHAL: Display: Platform has ~ 8 GB [8499904512 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.16-14.56.44:938][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.16-14.56.44:938][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.16-14.56.44:938][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.16-14.56.44:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.16-14.56.44:940][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.16-14.56.44:941][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.16-14.56.44:956][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.16-14.56.44:956][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.16-14.56.44:956][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.16-14.56.44:956][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Config/Windows/Engine.ini]
+[2021.05.16-14.56.44:956][  0]LogInit: Computer: LAPTOP-H0I2EJBV
+[2021.05.16-14.56.44:956][  0]LogInit: User: Nelson
+[2021.05.16-14.56.44:956][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.05.16-14.56.44:956][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.16-14.56.44:956][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.05.16-14.56.44:956][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.16-14.56.44:956][  0]LogMemory: Process Physical Memory: 131.96 MB used, 131.96 MB peak
+[2021.05.16-14.56.44:956][  0]LogMemory: Process Virtual Memory: 115.97 MB used, 115.97 MB peak
+[2021.05.16-14.56.44:956][  0]LogMemory: Physical Memory: 6531.00 MB used,  1575.14 MB free, 8106.14 MB total
+[2021.05.16-14.56.44:956][  0]LogMemory: Virtual Memory: 134207752.00 MB used,  9972.84 MB free, 134217728.00 MB total
+[2021.05.16-14.56.44:982][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.16-14.56.45:455][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.16-14.56.45:470][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.05.16-14.56.45:470][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.05.16-14.56.46:536][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.16-14.56.46:590][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.16-14.56.46:845][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.16-14.56.46:845][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.16-14.56.50:153][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.16-14.56.50:153][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.16-14.56.50:153][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.16-14.56.50:153][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.16-14.56.50:255][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2021.05.16-14.56.50:255][  0]LogD3D11RHI:       128/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.05.16-14.56.50:370][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.16-14.56.50:370][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.16-14.56.50:370][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.16-14.56.50:386][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.16-14.56.50:386][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.16-14.56.50:386][  0]LogWindows: EnumDisplayDevices:
+[2021.05.16-14.56.50:386][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2021.05.16-14.56.50:387][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2021.05.16-14.56.50:387][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2021.05.16-14.56.50:387][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.05.16-14.56.50:387][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2021.05.16-14.56.50:387][  0]LogD3D11RHI:   Driver Version: 20.19.15.4835 (internal:20.19.15.4835, unified:20.19.15.4835)
+[2021.05.16-14.56.50:387][  0]LogD3D11RHI:      Driver Date: 10-16-2017
+[2021.05.16-14.56.50:387][  0]LogRHI: Texture pool is 1508 MB (70% of 2154 MB)
+[2021.05.16-14.56.50:396][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.05.16-14.56.50:432][  0]LogD3D11RHI: Intel Extensions Framework not found
+[2021.05.16-14.56.50:432][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.16-14.56.50:432][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.16-14.56.50:443][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2021.05.16-14.56.52:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.16-14.56.52:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.16-14.56.52:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.16-14.56.52:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.16-14.56.52:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.16-14.56.52:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.16-14.56.52:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.16-14.56.52:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.16-14.56.52:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.16-14.56.52:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.16-14.56.52:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.16-14.56.52:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.16-14.56.52:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.16-14.56.52:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.16-14.56.52:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.16-14.56.52:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.16-14.56.52:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.16-14.56.52:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.16-14.56.52:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.16-14.56.52:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.16-14.56.52:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.16-14.56.52:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.16-14.56.52:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.16-14.56.53:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.16-14.56.53:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.16-14.56.53:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.16-14.56.53:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.16-14.56.53:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.16-14.56.53:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.16-14.56.53:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.16-14.56.53:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.16-14.56.53:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.16-14.56.53:458][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.16-14.56.53:707][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.16-14.56.54:655][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.16-14.56.54:655][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Intermediate/Shaders/WorkingDirectory/4840/).
+[2021.05.16-14.56.54:655][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nelson/AppData/Local/Temp/UnrealShaderWorkingDir/47E4E5804AEEC9FF2764C68400C09F2A/'.
+[2021.05.16-14.56.54:656][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.16-14.56.54:656][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.16-14.57.02:182][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.16-14.57.03:291][  0]LogDerivedDataCache: Loaded boot cache 1.11s 77MB C:/Users/Nelson/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.16-14.57.03:291][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nelson/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.16-14.57.03:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.16-14.57.03:291][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.16-14.57.03:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.16-14.57.03:291][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.16-14.57.03:401][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.16-14.57.03:401][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.16-14.57.03:401][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.16-14.57.03:620][  0]LogDerivedDataCache: Speed tests for C:/Users/Nelson/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.22 seconds
+[2021.05.16-14.57.03:620][  0]LogDerivedDataCache: Display: Performance to C:/Users/Nelson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=6.02ms. RandomReadSpeed=7.42MBs, RandomWriteSpeed=44.14MBs. Assigned SpeedClass 'Fast'
+[2021.05.16-14.57.03:621][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nelson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.16-14.57.03:621][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.16-14.57.03:621][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.16-14.57.03:721][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.16-14.57.03:738][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.16-14.57.04:224][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2021.05.16-14.57.04:644][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.16-14.57.04:645][  0]LogInit: Active device profile: [000001AE407A7600][000001AE3ABFE9C0 49] Windows
+[2021.05.16-14.57.04:645][  0]LogInit: Profiles: [000001AE407A7600][000001AE3ABFE9C0 49] Windows, [000001AE40778B00][000001AE3AC06B40 49] WindowsNoEditor, [000001AE407A4A00][000001AE3AC0ACC0 49] WindowsServer, [000001AE4077B200][000001AE37542E40 49] WindowsClient, [000001AE407A6F00][000001AE37546FC0 49] IOS, [000001AE40779400][000001AE3754B140 49] iPadAir, [000001AE407A5200][000001AE3754F2C0 49] iPadAir2, [000001AE40730C00][000001AE37557580 49] IPadPro, [000001AE40730D00][000001AE375535C0 49] iPadAir3, [000001AE407A6A00][000001AE3AC03700 49] iPadAir4, [000001AE40733B00][000001AE3755B840 49] iPadMini2, [000001AE407A5600][000001AE3755F980 49] iPadMini3, [000001AE40732100][000001AE37563AC0 49] iPadMini4, [000001AE407A7900][000001AE3756BC40 49] iPadMini5, [000001AE4077B400][000001AE37572240 49] iPhone6, [000001AE4077B300][000001AE3756E280 49] iPodTouch6, [000001AE40730F00][000001AE3757A540 49] iPhone7, [000001AE40733F00][000001AE37576580 49] iPodTouch7, [000001AE4077BC00][000001AE3757E700 49] iPhone5S, [000001AE40732E00][000001AE37582880 49] iPhone6Plus, [000001AE4077BB00][000001AE37586A00 49] iPhone6S, [000001AE40733200][000001AE3758AB80 49] iPhone6SPlus, [000001AE40778300][000001AE3758ED00 49] iPhone7Plus, [000001AE40731700][000001AE37592E80 49] iPhoneSE, [000001AE4077B500][000001AE37597000 49] iPhone8, [000001AE40730A00][000001AE3759B180 49] iPhone8Plus, [000001AE4077A600][000001AE3759F300 49] iPhoneX, [000001AE40731C00][000001AE3F963480 49] iPhoneXS, [000001AE40778100][000001AE3F967600 49] iPhoneXSMax, [000001AE40732000][000001AE3F96B780 49] iPhoneXR, [000001AE4077BD00][000001AE375678C0 49] iPhone11, [000001AE40730800][000001AE3F96FA00 49] iPhone11Pro, [000001AE4077A700][000001AE3F973B40 49] iPhone11ProMax, [000001AE40733700][000001AE3F97BCC0 49] iPhoneSE2, [000001AE40778700][000001AE3F97E180 49] iPhone12Mini, [000001AE40732500][000001AE3F982300 49] iPhone12, [000001AE4077A500][000001AE3F986480 49] iPhone12Pro, [000001AE40733100][000001AE3F98A600 49] iPhone12ProMax, [000001AE4077AD00][000001AE3F98E780 49] iPadPro105, [000001AE40730600][000001AE3F992900 49] iPadPro129, [000001AE4077A800][000001AE3F996A80 49] iPadPro97, [000001AE40731000][000001AE3F99AC00 49] iPadPro2_129, [000001AE4077A300][000001AE3F99ED80 49] iPad5, [000001AE40732F00][000001AE3F9A2F00 49] iPad6, [000001AE4077A900][000001AE3F9A7080 49] iPad7, [000001AE40730500][000001AE3F9AB200 49] iPad8, [000001AE40779A00][000001AE3F9AF380 49] iPadPro11, [000001AE40732B00][000001AE3F9B3500 49] iPadPro2_11, [000001AE4077B100][000001AE3F9B7680 49] iPadPro3_129, [000001AE40730E00][000001AE3F9BB800 49] iPadPro4_129, [000001AE40778200][000001AE3F977940 49] AppleTV, [000001AE40732200][000001AE3F9BFA80 49] AppleTV4K, [000001AE4077BF00][000001AE3F9C3BC0 49] TVOS, [000001AE40732600][000001AE3F9C7D00 49] Mac, [000001AE40779300][000001AE3F9CE1C0 49] MacClient, [000001AE40733800][000001AE3F9D2340 49] MacNoEditor, [000001AE40779900][000001AE3F9D64C0 49] MacServer, [000001AE40731900][000001AE3F9DA640 49] Linux, [000001AE40778800][000001AE3F9DE7C0 49] LinuxNoEditor, [000001AE407A4700][000001AE3F9E2940 49] LinuxAArch64NoEditor, [000001AE407EC300][000001AE3F9E6AC0 49] LinuxClient, [000001AE407A6000][000001AE3F9EAC40 49] LinuxAArch64Client, [000001AE407EC400][000001AE3F9EEDC0 49] LinuxServer, [000001AE407A5000][000001AE3F9F2F40 49] LinuxAArch64Server, [000001AE407EC100][000001AE3F9F70C0 49] Android, [000001AE407A7B00][000001AE3F9FB240 49] Android_Low, [000001AE407ED700][000001AE3F9FF3C0 49] Android_Mid, [000001AE407A7000][000001AE3FA03540 49] Android_High, [000001AE407ED800][000001AE3FA076C0 49] Android_Default, [000001AE407A4B00][000001AE3FA0B840 49] Android_Adreno4xx, [000001AE407ED100][000001AE3F9CB980 49] Android_Adreno5xx_Low, [000001AE407A4300][000001AE3FA0FAC0 49] Android_Adreno5xx, [000001AE407ED200][000001AE3FA13C00 49] Android_Adreno6xx, [000001AE407A7800][000001AE3FA17D40 49] Android_Adreno6xx_Vulkan, [000001AE407ECF00][000001AE3FA1E200 49] Android_Mali_T6xx, [000001AE407A6100][000001AE3FA22380 49] Android_Mali_T7xx, [000001AE407ECC00][000001AE3FA26500 49] Android_Mali_T8xx, [000001AE40778400][000001AE3FA2A680 49] Android_Mali_G71, [000001AE40733400][000001AE40A40800 49] Android_Mali_G72, [000001AE40779E00][000001AE40A44980 49] Android_Mali_G72_Vulkan, [000001AE40730300][000001AE40A48B00 49] Android_Mali_G76, [000001AE40779800][000001AE40B44C80 49] Android_Mali_G76_Vulkan, [000001AE40731A00][000001AE40B48E00 49] Android_Mali_G77, [000001AE4077AF00][000001AE40B4CF80 49] Android_Mali_G77_Vulkan, [000001AE40732C00][000001AE40B51100 49] Android_Vulkan_SM5, [000001AE40779100][000001AE40B55280 49] Android_PowerVR_G6xxx, [000001AE40732700][000001AE40B59400 49] Android_PowerVR_GT7xxx, [000001AE40778900][000001AE40B5D580 49] Android_PowerVR_GE8xxx, [000001AE40732300][000001AE40B61700 49] Android_PowerVR_GM9xxx, [000001AE40779D00][000001AE40B8D880 49] Android_PowerVR_GM9xxx_Vulkan, [000001AE40731F00][000001AE40B91A00 49] Android_TegraK1, [000001AE40779000][000001AE3FA1BB40 49] Android_Unknown_Vulkan, [000001AE40731600][000001AE40B95C80 49] Lumin, [000001AE40779600][000001AE40B98100 49] Lumin_Desktop, [000001AE407ECA00][000001AE40BA0280 49] HoloLens, 
+[2021.05.16-14.57.05:822][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.16-14.57.05:822][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.16-14.57.05:822][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.16-14.57.05:822][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.16-14.57.05:822][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.16-14.57.06:060][  0]LogNetVersion: cenario3D 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3441650668)
+[2021.05.16-14.57.07:408][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.16-14.57.07:878][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.469649 seconds
+[2021.05.16-14.57.07:888][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.05.16-14.57.07:888][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.05.16-14.57.07:888][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.16-14.57.14:182][  0]LogPython: Using Python 3.7.7
+[2021.05.16-14.57.16:176][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.16-14.57.16:274][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.16-14.57.17:518][  0]SourceControl: Source control is disabled
+[2021.05.16-14.57.17:518][  0]SourceControl: Source control is disabled
+[2021.05.16-14.57.17:601][  0]SourceControl: Source control is disabled
+[2021.05.16-14.57.17:676][  0]SourceControl: Source control is disabled
+[2021.05.16-14.57.17:738][  0]SourceControl: Source control is disabled
+[2021.05.16-14.57.17:778][  0]LogUProjectInfo: Found projects:
+[2021.05.16-14.57.19:857][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.16-14.57.20:076][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.16-14.57.20:076][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.16-14.57.20:607][  0]LogCollectionManager: Loaded 0 collections in 0.017411 seconds
+[2021.05.16-14.57.20:755][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/Collections/' took 0.00s
+[2021.05.16-14.57.20:755][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Content/Developers/Nelson/Collections/' took 0.00s
+[2021.05.16-14.57.20:755][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Content/Collections/' took 0.00s
+[2021.05.16-14.57.20:774][  0]LogOcInput: OculusInput pre-init called
+[2021.05.16-14.57.20:857][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.16-14.57.20:857][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.16-14.57.22:021][  0]LogEngine: Initializing Engine...
+[2021.05.16-14.57.22:069][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.16-14.57.22:085][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.16-14.57.22:099][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.16-14.57.22:316][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.16-14.57.22:484][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.16-14.57.22:485][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.16-14.57.22:519][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.16-14.57.22:519][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.16-14.57.22:519][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-14.57.22:519][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-14.57.22:519][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-14.57.22:519][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-14.57.22:519][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-14.57.22:519][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-14.57.22:519][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-14.57.22:519][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-14.57.22:520][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-14.57.22:521][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-14.57.22:680][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-14.57.22:680][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-14.57.22:762][  0]LogAudioMixer: Display: Using Audio Device Alto-falantes (Conexant SmartAudio HD)
+[2021.05.16-14.57.22:767][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-14.57.22:771][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-14.57.22:771][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-14.57.22:773][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-14.57.22:773][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.16-14.57.22:773][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.16-14.57.22:774][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.16-14.57.22:774][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.16-14.57.22:774][  0]LogInit: FAudioDevice initialized.
+[2021.05.16-14.57.22:774][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.16-14.57.22:774][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.16-14.57.23:494][  0]LogDerivedDataCache: Saved boot cache 0.72s 77MB C:/Users/Nelson/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.16-14.57.23:494][  0]LogInit: Texture streaming: Enabled
+[2021.05.16-14.57.23:676][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.05.16-14.57.23:732][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.16-14.57.23:732][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.16-14.57.23:774][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.16-14.57.24:071][  0]LogInit: Transaction tracking system initialized
+[2021.05.16-14.57.25:132][  0]BlueprintLog: New page: Editor Load
+[2021.05.16-14.57.26:527][  0]LocalizationService: Localization service is disabled
+[2021.05.16-14.57.26:937][  0]TimingProfiler: Initialize
+[2021.05.16-14.57.26:937][  0]TimingProfiler: OnSessionChanged
+[2021.05.16-14.57.26:937][  0]LoadingProfiler: Initialize
+[2021.05.16-14.57.26:937][  0]LoadingProfiler: OnSessionChanged
+[2021.05.16-14.57.26:937][  0]NetworkingProfiler: Initialize
+[2021.05.16-14.57.26:937][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.16-14.57.26:937][  0]MemoryProfiler: Initialize
+[2021.05.16-14.57.26:937][  0]MemoryProfiler: OnSessionChanged
+[2021.05.16-14.57.28:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nelson/Documents/Unreal Projects/cenario3D/Content/' took 0.17s
+[2021.05.16-14.57.28:641][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.16-14.57.28:641][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.16-14.57.34:888][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.16-14.57.34:960][  0]SourceControl: Source control is disabled
+[2021.05.16-14.57.34:960][  0]LogUnrealEdMisc: Loading editor; pre map load, took 124.981
+[2021.05.16-14.57.34:960][  0]Cmd: MAP LOAD FILE="../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.16-14.57.35:003][  0]LightingResults: New page: Lighting Build
+[2021.05.16-14.57.35:172][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.57.35:173][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.57.35:175][  0]MapCheck: New page: Map Check
+[2021.05.16-14.57.35:175][  0]LightingResults: New page: Lighting Build
+[2021.05.16-14.57.35:202][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.05.16-14.57.40:216][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.05.16-14.57.41:090][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.16-14.57.41:091][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.16-14.57.41:719][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.16-14.57.41:752][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.05.16-14.57.41:802][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.16-14.57.41:802][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.268ms to complete.
+[2021.05.16-14.57.41:802][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 6.842
+[2021.05.16-14.57.41:820][  0]LogUnrealEdMisc: Total Editor Startup Time, took 131.841
+[2021.05.16-14.57.43:581][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-14.57.43:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-14.57.43:641][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-14.57.43:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-14.57.44:228][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0321 seconds. Added 3628 classes and 872 folders.
+[2021.05.16-14.57.44:495][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.16-14.57.44:701][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.16-14.57.44:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.44:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.16-14.57.44:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.16-14.57.44:724][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.16-14.57.44:724][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.44:724][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.16-14.57.44:724][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.16-14.57.44:747][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.16-14.57.44:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.44:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.16-14.57.44:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.16-14.57.44:824][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.16-14.57.44:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.44:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.16-14.57.44:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.16-14.57.44:958][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.16-14.57.44:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.44:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.16-14.57.44:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.05.16-14.57.44:995][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.16-14.57.44:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.44:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.16-14.57.44:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.05.16-14.57.45:021][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.16-14.57.45:021][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:021][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.16-14.57.45:021][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.05.16-14.57.45:066][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.16-14.57.45:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.16-14.57.45:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.05.16-14.57.45:090][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.16-14.57.45:090][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:090][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.16-14.57.45:090][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.05.16-14.57.45:102][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.16-14.57.45:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.16-14.57.45:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.05.16-14.57.45:105][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.16-14.57.45:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.16-14.57.45:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.05.16-14.57.45:114][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.16-14.57.45:114][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:114][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.16-14.57.45:114][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.05.16-14.57.45:194][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.16-14.57.45:194][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:194][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.16-14.57.45:194][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.05.16-14.57.45:215][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.16-14.57.45:215][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:215][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.16-14.57.45:215][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.05.16-14.57.45:223][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.16-14.57.45:223][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:223][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.16-14.57.45:223][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.05.16-14.57.45:231][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.16-14.57.45:231][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:231][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.16-14.57.45:231][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.05.16-14.57.45:252][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.16-14.57.45:252][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:252][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.16-14.57.45:252][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.05.16-14.57.45:258][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.16-14.57.45:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.16-14.57.45:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.05.16-14.57.45:265][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.16-14.57.45:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.16-14.57.45:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.05.16-14.57.45:269][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.16-14.57.45:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.16-14.57.45:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.05.16-14.57.45:289][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.16-14.57.45:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.16-14.57.45:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.05.16-14.57.45:302][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.16-14.57.45:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:302][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.16-14.57.45:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2021.05.16-14.57.45:324][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.16-14.57.45:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:325][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.16-14.57.45:325][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2021.05.16-14.57.45:343][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.16-14.57.45:343][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:343][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.16-14.57.45:343][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2021.05.16-14.57.45:360][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.16-14.57.45:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.16-14.57.45:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2021.05.16-14.57.45:376][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.16-14.57.45:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-14.57.45:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.16-14.57.45:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000126
+[2021.05.16-14.57.47:144][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.16-14.57.47:218][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.05.16-14.57.53:037][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.05.16-14.57.53:380][  0]LogSlate: Took 0.049640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.16-14.57.53:532][  0]LogSlate: Took 0.035653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.16-14.57.53:893][  0]LogSlate: Took 0.015780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.16-14.57.55:761][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-14.57.55:761][  0]LogRenderer: Reallocating scene render targets to support 812x400 Format 10 NumSamples 1 (Frame:1).
+[2021.05.16-14.57.59:674][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.16-14.57.59:674][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.16-14.57.59:674][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.16-14.57.59:674][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.16-14.57.59:674][  0]LogLoad: (Engine Initialization) Total time: 149.70 seconds
+[2021.05.16-14.57.59:674][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.16-14.57.59:674][  0]LogInit: First time updating LLM stats...
+[2021.05.16-14.57.59:940][  0]LogAssetRegistry: Asset discovery search completed in 55.7177 seconds
+[2021.05.16-14.57.59:942][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.05.16-14.58.00:001][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.16-14.58.02:533][  2]LogSlate: Took 0.043149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.16-14.58.29:151][ 79]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-14.58.46:164][129]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-14.59.36:873][280]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.01.01:095][531]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.01.31:936][623]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.02.02:526][714]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.03.55:806][ 52]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.04.20:283][125]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.04.50:790][216]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.06.23:090][491]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.07.55:382][766]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.12.01:702][500]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.12.32:570][592]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.22.21:561][347]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.27.19:395][235]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.31.27:639][975]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.32.56:844][241]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.34.16:696][479]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.35.22:748][675]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.43.35:778][145]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.44.38:210][331]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.44.52:015][372]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.45.02:310][402]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.45.20:798][457]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.45.31:290][486]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.45.52:487][548]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.46.17:695][622]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.46.29:829][658]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.46.42:031][694]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.46.52:774][726]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.47.42:645][937]LogRendererCore: Warning: Query 'Unaccounted' not ready.
+[2021.05.16-15.51.38:415][765]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.58.05:319][918]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-15.58.48:100][ 45]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.01.19:769][497]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.01.56:759][607]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.02.14:941][661]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.03.28:039][879]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.03.52:265][951]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.04.08:330][999]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.05.04:697][167]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.05.23:132][222]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.05.40:578][274]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.05.58:056][326]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.06.08:801][358]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.06.19:856][391]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.06.33:921][433]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.06.45:983][469]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.06.59:741][510]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.07.29:947][600]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.07.40:762][632]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.08.18:973][746]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.08.34:066][791]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.08.45:820][826]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.09.01:261][872]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.09.24:090][940]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.09.42:890][996]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.09.53:633][ 28]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.10.08:736][ 73]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.10.24:150][119]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.10.55:996][214]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.11.11:086][259]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.11.25:863][303]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.11.42:672][353]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.11.59:774][404]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.12.14:937][449]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.12.32:768][502]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.12.45:863][541]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.13.00:260][584]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.13.18:712][639]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.13.31:785][678]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.13.44:871][717]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.14.00:626][764]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.14.14:734][806]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.14.29:837][851]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.14.45:597][898]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.15.49:367][ 88]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.19.02:658][664]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.22.04:187][205]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.22.17:281][244]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.22.36:488][301]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.22.54:904][356]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.23.15:721][418]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.23.30:144][461]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.23.50:737][522]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.24.12:229][586]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.24.40:159][669]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.24.58:236][723]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.25.15:025][773]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.25.33:207][827]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.25.44:634][861]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.26.01:495][911]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.26.22:672][974]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.26.44:838][ 40]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.27.01:269][ 89]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.27.27:092][166]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.27.49:209][232]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.28.28:444][349]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.28.48:339][408]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.29.08:423][468]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.29.20:498][504]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.29.40:982][565]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.30.01:431][626]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.30.13:292][661]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.30.25:743][698]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.30.59:335][798]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.31.57:830][972]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.33.01:626][162]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.33.50:414][307]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.34.19:004][392]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.35.00:284][514]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.35.11:648][548]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.35.30:576][604]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.35.45:068][647]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.36.10:618][723]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.36.29:042][778]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.36.46:526][830]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.37.01:911][876]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.37.15:006][914]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.37.42:115][995]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.37.54:566][ 32]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.38.09:072][ 75]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.38.25:896][125]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.38.41:958][173]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.39.04:422][240]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.39.26:227][305]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.39.37:818][339]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.39.49:002][372]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.40.11:586][439]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.40.30:118][494]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.40.46:526][543]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.41.05:665][600]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.41.23:099][652]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.41.36:722][692]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.41.50:192][732]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.42.06:615][781]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.45.10:658][285]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-16.45.59:013][429]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.02.12:930][332]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.02.54:358][455]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.03.35:889][579]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.04.12:932][689]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.04.40:907][772]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.05.24:869][903]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.06.05:217][ 23]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.06.16:610][ 57]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.16.50:966][948]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.17.09:767][  4]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.17.45:077][109]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.18.19:293][211]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.18.45:590][289]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.19.02:358][339]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.19.35:375][437]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.19.58:497][506]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.21.11:388][723]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.23.24:616][120]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.24.13:550][266]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.26.05:418][599]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.26.16:308][624]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.26.38:210][688]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.26.52:005][729]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.29.10:313][139]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-17.57.58:052][347]LogHttp: Warning: 000001AE778C2B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B92CC8D87-4CDF-5E3D-3CB0-F29453EE4FC3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=607e0bda4b3b4cc937f565a61ffdef2e%7Cb0840973cf2044e0ac51598f21715bb6%7Ca0928f97-f16b-4ad9-bf30-e3a6eace14a1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.16-17.57.58:673][347]LogHttp: Warning: 000001AE778C2B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.05.16-17.57.59:026][347]LogHttp: Warning: 000001AE778C2B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ae22583eb0 [can pipeline])
+[2021.05.16-17.57.59:026][347]LogHttp: Warning: 000001AE778C2B00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.05.16-17.57.59:026][347]LogHttp: Warning: 000001AE778C2B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.167.14.174) port 443 (#0))
+[2021.05.16-17.57.59:026][347]LogHttp: Warning: 000001AE778C2B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.05.16-17.57.59:026][347]LogHttp: Warning: 000001AE778C2B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.05.16-17.57.59:026][347]LogHttp: Warning: 000001AE778C2B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.05.16-17.57.59:026][347]LogHttp: Warning: 000001AE778C2B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.05.16-17.57.59:026][347]LogHttp: Warning: 000001AE778C2B00: libcurl info message cache 7 (Closing connection 0)
+[2021.05.16-17.58.02:318][348]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B92CC8D87-4CDF-5E3D-3CB0-F29453EE4FC3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=607e0bda4b3b4cc937f565a61ffdef2e%7Cb0840973cf2044e0ac51598f21715bb6%7Ca0928f97-f16b-4ad9-bf30-e3a6eace14a1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.16-18.01.15:981][922]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.03.20:205][291]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.03.44:402][363]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.04.02:266][416]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.04.16:520][458]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.04.49:734][557]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.05.47:144][728]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.06.38:488][881]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.06.48:602][911]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.07.10:070][975]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.07.37:240][ 56]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.07.58:805][120]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.08.21:955][189]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.08.45:452][259]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.08.56:859][293]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.09.41:442][426]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.11.14:999][705]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.12.33:742][940]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.12.48:381][983]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.13.09:570][ 46]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.15.44:219][506]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.17.24:879][806]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.17.49:090][878]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.45.22:992][951]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.45.42:457][  9]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.46.10:637][ 93]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.46.28:507][146]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.47.47:765][382]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.48.30:040][508]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.48.54:582][581]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.49.21:763][662]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-18.50.06:452][794]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-18.50.08:325][794]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-18.50.08:325][794]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-18.50.09:455][795]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-18.50.09:656][795]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-18.50.09:656][795]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-18.50.10:261][798]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-19.42.51:165][811]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-19.42.56:425][811]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-19.42.56:426][811]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-19.42.58:678][812]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.05.16-19.43.07:283][812]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-19.43.07:316][812]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-19.43.07:316][812]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-19.44.06:529][989]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-19.58.42:171][598]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-20.02.15:698][234]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-20.04.58:321][719]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-20.08.46:381][194]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-20.30.21:867][ 33]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-20.30.23:074][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-20.30.23:074][ 33]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-20.30.23:347][ 34]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-20.30.23:377][ 34]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-20.30.23:377][ 34]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-21.01.58:492][ 87]LogHttp: Warning: 000001AE778C3200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B92CC8D87-4CDF-5E3D-3CB0-F29453EE4FC3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=607e0bda4b3b4cc937f565a61ffdef2e%7Cb0840973cf2044e0ac51598f21715bb6%7Ca0928f97-f16b-4ad9-bf30-e3a6eace14a1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.16-21.01.58:776][ 87]LogHttp: Warning: 000001AE778C3200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.05.16-21.01.59:805][ 87]LogHttp: Warning: 000001AE778C3200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ae22581060 [can pipeline])
+[2021.05.16-21.01.59:805][ 87]LogHttp: Warning: 000001AE778C3200: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2021.05.16-21.01.59:805][ 87]LogHttp: Warning: 000001AE778C3200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.232.43.9) port 443 (#2))
+[2021.05.16-21.01.59:806][ 87]LogHttp: Warning: 000001AE778C3200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.05.16-21.01.59:806][ 87]LogHttp: Warning: 000001AE778C3200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.05.16-21.01.59:806][ 87]LogHttp: Warning: 000001AE778C3200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.05.16-21.01.59:806][ 87]LogHttp: Warning: 000001AE778C3200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.05.16-21.01.59:806][ 87]LogHttp: Warning: 000001AE778C3200: libcurl info message cache 7 (Closing connection 2)
+[2021.05.16-21.01.59:818][ 88]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B92CC8D87-4CDF-5E3D-3CB0-F29453EE4FC3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=607e0bda4b3b4cc937f565a61ffdef2e%7Cb0840973cf2044e0ac51598f21715bb6%7Ca0928f97-f16b-4ad9-bf30-e3a6eace14a1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.16-21.04.58:668][621]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.05.20:352][685]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.05.45:296][758]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.05.56:240][789]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.19.31:290][215]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.19.43:065][250]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.20.00:464][302]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.21.01:860][485]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.22.53:672][818]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.26.32:887][471]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.27.55:204][716]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.28.09:640][759]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-21.34.47:333][944]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.03.16:011][535]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.06.35:499][130]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.08.05:080][397]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.09.18:834][617]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.10.06:156][758]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.10.42:477][866]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.12.38:901][213]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.14.19:645][513]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.23.17:910][117]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.23.51:125][216]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.25.15:982][469]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.25.46:174][559]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.26.15:074][645]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.27.19:535][837]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.27.38:316][893]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.28.05:060][972]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.28.20:778][ 19]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.29.31:374][229]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.30.10:955][347]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.31.24:860][567]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.32.10:562][703]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.33.30:974][943]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.33.53:558][ 10]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.35.47:062][348]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.36.01:764][392]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.37.02:909][574]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.37.15:675][612]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.37.34:199][667]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.37.58:684][740]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.38.22:494][811]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.38.59:379][921]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.39.27:921][  6]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.39.40:102][ 42]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.40.18:060][155]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.40.42:665][228]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.41.15:169][325]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.42.34:621][561]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-00.43.29:957][720]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.17-00.43.30:680][720]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.17-00.43.30:680][720]LogAudioMixer: Display: 1: FrontRight
+[2021.05.17-00.43.30:787][721]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.17-00.43.30:926][721]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.17-00.43.30:926][721]LogAudioMixer: Display: 1: FrontRight
+[2021.05.17-01.09.42:798][776]LogHttp: Warning: 000001AE778C0100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B92CC8D87-4CDF-5E3D-3CB0-F29453EE4FC3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=607e0bda4b3b4cc937f565a61ffdef2e%7Cb0840973cf2044e0ac51598f21715bb6%7Ca0928f97-f16b-4ad9-bf30-e3a6eace14a1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.17-01.09.43:657][776]LogHttp: Warning: 000001AE778C0100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.05.17-01.09.44:241][776]LogHttp: Warning: 000001AE778C0100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ae22581cc0 [can pipeline])
+[2021.05.17-01.09.44:241][776]LogHttp: Warning: 000001AE778C0100: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2021.05.17-01.09.44:241][776]LogHttp: Warning: 000001AE778C0100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.174.87.144) port 443 (#3))
+[2021.05.17-01.09.44:241][776]LogHttp: Warning: 000001AE778C0100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.05.17-01.09.44:241][776]LogHttp: Warning: 000001AE778C0100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.05.17-01.09.45:921][776]LogHttp: Warning: 000001AE778C0100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.05.17-01.09.45:921][776]LogHttp: Warning: 000001AE778C0100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.05.17-01.09.45:921][776]LogHttp: Warning: 000001AE778C0100: libcurl info message cache 7 (Closing connection 3)
+[2021.05.17-01.09.45:921][776]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B92CC8D87-4CDF-5E3D-3CB0-F29453EE4FC3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=607e0bda4b3b4cc937f565a61ffdef2e%7Cb0840973cf2044e0ac51598f21715bb6%7Ca0928f97-f16b-4ad9-bf30-e3a6eace14a1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.17-01.20.10:492][637]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-01.37.12:146][681]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-01.37.34:622][748]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-01.54.35:679][790]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-01.57.39:600][338]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.04.18:455][527]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.21.18:025][565]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.24.14:262][ 90]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.26.25:168][480]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.29.10:459][972]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.30.27:411][201]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.30.49:787][267]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.35.24:796][ 85]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.35.36:279][119]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.35.57:763][183]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.36.08:557][215]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.36.19:780][248]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.36.39:613][307]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.37.01:781][373]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.37.12:170][404]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.37.46:297][505]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.37.57:153][537]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.38.13:084][584]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.38.37:913][658]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.38.50:966][697]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.39.26:339][802]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.39.55:536][889]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.40.28:044][985]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.41.45:591][216]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-02.42.00:149][259]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.00.17:359][595]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.33.07:847][464]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.33.57:515][ 79]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.05.17-03.33.57:831][ 79]LogContentBrowser: Creating deferred item: NewWorld
+[2021.05.17-03.34.17:646][639]LogContentBrowser: Attempting asset rename: NewWorld -> cenario3D
+[2021.05.17-03.34.22:688][639]LogContentBrowser: End creating deferred item NewWorld
+[2021.05.17-03.34.27:281][650]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.34.44:910][703]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.35.00:525][748]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.35.21:948][883]LogUObjectHash: Compacting FUObjectHashTables data took 1033.30ms
+[2021.05.17-03.35.32:521][883]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.36.32:256][883]LogSlate: Window 'Save Content' being destroyed
+[2021.05.17-03.36.33:050][883]LogSlate: Took 0.071055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.17-03.36.33:673][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.17-03.36.35:793][883]LogSavePackage: Moving '../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/cenario3D8FCCCAAB45DE69C9B49710809A6BDDC1.tmp' to '../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/StarterContent/Maps/cenario3D.umap'
+[2021.05.17-03.36.36:123][883]LogFileHelpers: Saving map 'cenario3D' took 2.737
+[2021.05.17-03.36.36:324][883]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/cenario3D.cenario3D
+[2021.05.17-03.36.36:659][883]Cmd: MAP LOAD FILE="../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/StarterContent/Maps/cenario3D.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-03.36.36:988][883]LightingResults: New page: Lighting Build
+[2021.05.17-03.36.37:266][883]LoadErrors: New page: Loading map: cenario3D.umap
+[2021.05.17-03.36.39:527][883]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-03.36.39:961][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-03.36.40:297][883]MapCheck: New page: Map Check
+[2021.05.17-03.36.40:622][883]LightingResults: New page: Lighting Build
+[2021.05.17-03.36.41:389][883]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-03.36.45:722][883]LogUObjectHash: Compacting FUObjectHashTables data took  71.52ms
+[2021.05.17-03.36.46:238][883]LogAudio: Display: Audio Device (ID: 1) registered with world 'cenario3D'.
+[2021.05.17-03.36.47:641][883]LogEditorServer: Finished looking for orphan Actors (0.010 secs)
+[2021.05.17-03.36.47:681][883]LogAIModule: Creating AISystem for world cenario3D
+[2021.05.17-03.36.48:270][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.05.17-03.36.49:142][883]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-03.36.49:351][883]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 26.736ms to complete.
+[2021.05.17-03.36.49:451][883]LogFileHelpers: Loading map 'cenario3D' took 13.091
+[2021.05.17-03.36.49:823][883]AssetCheck: New page: Asset Save: cenario3D
+[2021.05.17-03.36.49:843][883]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/cenario3D.cenario3D
+[2021.05.17-03.41.51:888][455]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.42.11:698][514]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.43.40:730][779]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.45.40:533][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.05.17-03.45.40:578][290]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/cenario3D.cenario3D
+[2021.05.17-03.45.40:578][290]Cmd: MAP LOAD FILE="../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/StarterContent/Maps/cenario3D.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-03.45.40:578][290]LightingResults: New page: Lighting Build
+[2021.05.17-03.45.40:578][290]LoadErrors: New page: Loading map: cenario3D.umap
+[2021.05.17-03.45.40:579][290]LogWorld: UWorld::CleanupWorld for cenario3D, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-03.45.40:590][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-03.45.40:591][290]MapCheck: New page: Map Check
+[2021.05.17-03.45.40:591][290]LightingResults: New page: Lighting Build
+[2021.05.17-03.45.40:597][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-03.45.40:613][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.05.17-03.45.41:109][290]LogAudio: Display: Audio Device (ID: 1) registered with world 'cenario3D'.
+[2021.05.17-03.45.41:119][290]LogAIModule: Creating AISystem for world cenario3D
+[2021.05.17-03.45.41:222][290]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.17-03.45.41:255][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.05.17-03.45.41:394][290]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-03.45.41:394][290]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.318ms to complete.
+[2021.05.17-03.45.41:394][290]LogFileHelpers: Loading map 'cenario3D' took 0.816
+[2021.05.17-03.46.10:304][242]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.05.17-03.46.36:332][107]LogObjectTools: Deleting 1 worlds: /Game/StarterContent/Maps/cenario3D.cenario3D
+[2021.05.17-03.46.36:332][107]LogObjectTools: Currently 2 active worlds: /Game/StarterContent/Maps/cenario3D.cenario3D, /Engine/Transient.World_0
+[2021.05.17-03.46.42:074][107]LogSlate: Window 'Unable to delete level' being destroyed
+[2021.05.17-03.46.42:079][107]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2021.05.17-03.46.48:834][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.05.17-03.46.53:173][352]LogSlate: Window 'Save Content' being destroyed
+[2021.05.17-03.46.53:234][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.17-03.46.53:834][352]LogSavePackage: Moving '../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/cenario3DDBF3BC2D4AE52D403F6C9F95AE10F98D.tmp' to '../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/StarterContent/Maps/cenario3D.umap'
+[2021.05.17-03.46.53:846][352]LogFileHelpers: Saving map 'cenario3D' took 0.625
+[2021.05.17-03.47.17:781][352]LogStaticMesh: Building static mesh Floor_400x400...
+[2021.05.17-03.47.18:128][352]LogStaticMesh: Built static mesh [0.42s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.05.17-03.47.19:800][352]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2021.05.17-03.47.20:066][352]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2021.05.17-03.47.20:173][352]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2021.05.17-03.47.20:259][352]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2021.05.17-03.47.20:330][352]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2021.05.17-03.47.20:398][352]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2021.05.17-03.47.20:509][352]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2021.05.17-03.47.20:614][352]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2021.05.17-03.47.20:721][352]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2021.05.17-03.47.20:760][352]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2021.05.17-03.47.24:389][352]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2021.05.17-03.47.24:390][352]Cmd: MAP LOAD FILE="../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-03.47.24:390][352]LightingResults: New page: Lighting Build
+[2021.05.17-03.47.24:391][352]LoadErrors: New page: Loading map: StarterMap.umap
+[2021.05.17-03.47.24:443][352]LogWorld: UWorld::CleanupWorld for cenario3D, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-03.47.24:460][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-03.47.24:460][352]MapCheck: New page: Map Check
+[2021.05.17-03.47.24:460][352]LightingResults: New page: Lighting Build
+[2021.05.17-03.47.24:502][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-03.47.24:593][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.05.17-03.47.24:678][352]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2021.05.17-03.47.25:351][352]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.17-03.47.25:351][352]LogAIModule: Creating AISystem for world StarterMap
+[2021.05.17-03.47.25:425][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.05.17-03.47.25:473][352]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-03.47.25:473][352]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.352ms to complete.
+[2021.05.17-03.47.25:473][352]LogFileHelpers: Loading map 'StarterMap' took 1.084
+[2021.05.17-03.47.25:625][352]AssetCheck: New page: Asset Save: cenario3D
+[2021.05.17-03.47.25:625][352]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/cenario3D.cenario3D
+[2021.05.17-03.48.04:682][101]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.17-03.48.05:402][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.17-03.48.05:478][101]PIE: New page: PIE session: StarterMap (May 16, 2021, 9:48:05 PM)
+[2021.05.17-03.48.06:397][101]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.17-03.48.06:723][101]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.17-03.48.06:789][101]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2021.05.17-03.48.07:323][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.516196s)
+[2021.05.17-03.48.07:382][101]LogAIModule: Creating AISystem for world StarterMap
+[2021.05.17-03.48.07:570][101]LogPlayLevel: PIE: World Init took: (0.239279s)
+[2021.05.17-03.48.07:592][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.800038s)
+[2021.05.17-03.48.07:635][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.05.17-03.48.07:938][101]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.17-03.48.07:987][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.17-03.48.07:987][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.17-03.48.07:987][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.17-03.48.07:987][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.17-03.48.07:987][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.17-03.48.07:987][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.17-03.48.07:987][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.17-03.48.08:000][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.17-03.48.08:118][101]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.17-03.48.08:132][101]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.17-03.48.08:342][101]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.17-03.48.08:342][101]LogAudioMixer: Display: 1: FrontRight
+[2021.05.17-03.48.08:576][101]LogAudioMixer: Display: Using Audio Device Alto-falantes (Conexant SmartAudio HD)
+[2021.05.17-03.48.08:576][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.17-03.48.08:576][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.17-03.48.08:577][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.17-03.48.08:630][101]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.17-03.48.08:630][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.17-03.48.08:630][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.17-03.48.08:711][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.17-03.48.08:711][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.17-03.48.08:711][101]LogInit: FAudioDevice initialized.
+[2021.05.17-03.48.08:768][101]LogAudio: Display: Audio Device (ID: 2) registered with world 'StarterMap'.
+[2021.05.17-03.48.10:243][101]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.17-03.48.10:790][101]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 60) at 2021.05.17-00.48.10
+[2021.05.17-03.48.11:034][101]LogWorld: Bringing up level for play took: 0.273101
+[2021.05.17-03.48.11:069][101]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.05.17-03.48.13:608][101]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.2244 seconds. Added 20 classes and 0 folders.
+[2021.05.17-03.48.15:377][101]PIE: Server logged in
+[2021.05.17-03.48.15:401][101]PIE: Play in editor total start time 10.2 seconds.
+[2021.05.17-03.48.31:548][102]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue was zero and has changed. Consider manually Re-saving the asset
+[2021.05.17-03.48.32:788][103]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.49.08:849][724]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-03.49.16:777][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.17-03.49.17:080][860]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2021.05.17-03.49.18:423][860]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-03.49.18:754][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-03.49.20:369][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.17-03.49.20:645][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-03.49.20:783][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-03.49.21:059][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.17-03.49.21:152][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.17-03.49.22:807][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.17-03.49.24:256][860]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.05.17-03.49.24:597][861]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.05.17-03.49.43:477][101]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.17-03.49.49:005][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.17-03.49.49:006][101]PIE: New page: PIE session: StarterMap (May 16, 2021, 9:49:49 PM)
+[2021.05.17-03.49.49:006][101]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2021.05.17-03.49.49:037][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030748s)
+[2021.05.17-03.49.49:038][101]LogAIModule: Creating AISystem for world StarterMap
+[2021.05.17-03.49.49:038][101]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2021.05.17-03.49.49:038][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.032325s)
+[2021.05.17-03.49.49:069][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.05.17-03.49.49:117][101]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.17-03.49.49:117][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.17-03.49.49:117][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.17-03.49.49:117][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.17-03.49.49:117][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.17-03.49.49:117][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.17-03.49.49:118][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.17-03.49.49:118][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.17-03.49.49:118][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.17-03.49.49:118][101]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.17-03.49.49:118][101]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.17-03.49.49:170][101]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.17-03.49.49:170][101]LogAudioMixer: Display: 1: FrontRight
+[2021.05.17-03.49.49:204][101]LogAudioMixer: Display: Using Audio Device Alto-falantes (Conexant SmartAudio HD)
+[2021.05.17-03.49.49:204][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.17-03.49.49:204][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.17-03.49.49:205][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.17-03.49.49:241][101]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.17-03.49.49:241][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.17-03.49.49:241][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.17-03.49.49:291][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.17-03.49.49:291][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.17-03.49.49:291][101]LogInit: FAudioDevice initialized.
+[2021.05.17-03.49.49:291][101]LogAudio: Display: Audio Device (ID: 3) registered with world 'StarterMap'.
+[2021.05.17-03.49.49:462][101]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.17-03.49.49:474][101]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 60) at 2021.05.17-00.49.49
+[2021.05.17-03.49.49:475][101]LogWorld: Bringing up level for play took: 0.012313
+[2021.05.17-03.49.49:494][101]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.05.17-03.49.49:553][101]PIE: Server logged in
+[2021.05.17-03.49.49:556][101]PIE: Play in editor total start time 0.556 seconds.
+[2021.05.17-03.49.57:428][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.17-03.49.57:428][333]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2021.05.17-03.49.57:429][333]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-03.49.57:441][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-03.49.57:449][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.17-03.49.57:452][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-03.49.57:495][333]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-03.49.57:496][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.17-03.49.57:497][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.17-03.49.57:554][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.17-03.49.57:557][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.05.17-03.49.57:598][334]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.05.17-03.50.01:475][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.05.17-03.50.02:388][410]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.05.17-03.50.02:599][410]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.05.17-03.50.02:923][410]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.05.17-03.50.02:923][410]Cmd: MAP LOAD FILE="../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-03.50.02:924][410]LightingResults: New page: Lighting Build
+[2021.05.17-03.50.02:924][410]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2021.05.17-03.50.03:170][410]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-03.50.03:170][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-03.50.03:171][410]MapCheck: New page: Map Check
+[2021.05.17-03.50.03:171][410]LightingResults: New page: Lighting Build
+[2021.05.17-03.50.03:195][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-03.50.03:233][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.05.17-03.50.03:420][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.05.17-03.50.03:517][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.05.17-03.50.03:517][410]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.05.17-03.50.03:524][410]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.17-03.50.03:524][410]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.17-03.50.03:543][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.05.17-03.50.03:549][410]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-03.50.03:549][410]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.261ms to complete.
+[2021.05.17-03.50.03:550][410]LogFileHelpers: Loading map 'Minimal_Default' took 0.626
+[2021.05.17-03.50.07:648][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.05.17-03.50.15:445][546]LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2021.05.17-03.50.17:427][546]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2021.05.17-03.50.17:427][546]Cmd: MAP LOAD FILE="../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-03.50.17:427][546]LightingResults: New page: Lighting Build
+[2021.05.17-03.50.17:427][546]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2021.05.17-03.50.17:431][546]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-03.50.17:431][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-03.50.17:431][546]MapCheck: New page: Map Check
+[2021.05.17-03.50.17:431][546]LightingResults: New page: Lighting Build
+[2021.05.17-03.50.17:440][546]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-03.50.17:577][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.05.17-03.50.17:579][546]LogAudio: Display: Audio Device (ID: 1) registered with world 'Advanced_Lighting'.
+[2021.05.17-03.50.17:583][546]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.17-03.50.17:583][546]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2021.05.17-03.50.17:610][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.17-03.50.17:616][546]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-03.50.17:616][546]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
+[2021.05.17-03.50.17:616][546]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.189
+[2021.05.17-03.51.00:355][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.05.17-03.51.00:859][914]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.05.17-03.51.00:949][914]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.17-03.51.00:949][914]Cmd: MAP LOAD FILE="../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-03.51.00:949][914]LightingResults: New page: Lighting Build
+[2021.05.17-03.51.00:949][914]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.05.17-03.51.00:950][914]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-03.51.00:951][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-03.51.00:951][914]MapCheck: New page: Map Check
+[2021.05.17-03.51.00:951][914]LightingResults: New page: Lighting Build
+[2021.05.17-03.51.00:959][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-03.51.00:992][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.05.17-03.51.00:993][914]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.17-03.51.00:997][914]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.17-03.51.00:997][914]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.17-03.51.01:014][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.05.17-03.51.01:018][914]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-03.51.01:018][914]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2021.05.17-03.51.01:018][914]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.070
+[2021.05.17-03.51.31:444][ 98]LogObjectTools: Deleting 1 worlds: /Game/StarterContent/Maps/cenario3D.cenario3D
+[2021.05.17-03.51.31:444][ 98]LogObjectTools: Currently 2 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0
+[2021.05.17-03.51.31:467][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.05.17-03.51.36:595][ 98]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.17-03.51.36:726][ 98]LogWorld: UWorld::CleanupWorld for cenario3D, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-03.51.36:726][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-03.51.37:053][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.05.17-03.51.37:086][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.05.17-03.51.37:095][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.05.17-04.01.05:744][716]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.05.17-04.01.05:804][716]LogContentBrowser: Creating deferred item: NewWorld
+[2021.05.17-04.01.21:913][213]LogContentBrowser: Attempting asset rename: NewWorld -> cenario3D
+[2021.05.17-04.01.22:067][213]LogContentBrowser: End creating deferred item NewWorld
+[2021.05.17-04.01.43:224][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.05.17-04.01.48:848][797]LogSlate: Window 'Save Content' being destroyed
+[2021.05.17-04.01.48:897][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.17-04.01.48:900][797]LogSavePackage: Moving '../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/cenario3D2C94B3A94FF6B9773E7412A7681EFD2D.tmp' to '../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/ThirdPersonBP/Maps/cenario3D.umap'
+[2021.05.17-04.01.48:917][797]LogFileHelpers: Saving map 'cenario3D' took 0.031
+[2021.05.17-04.01.49:137][797]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/cenario3D.cenario3D
+[2021.05.17-04.01.49:138][797]Cmd: MAP LOAD FILE="../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/ThirdPersonBP/Maps/cenario3D.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-04.01.49:138][797]LightingResults: New page: Lighting Build
+[2021.05.17-04.01.49:138][797]LoadErrors: New page: Loading map: cenario3D.umap
+[2021.05.17-04.01.49:141][797]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-04.01.49:141][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-04.01.49:141][797]MapCheck: New page: Map Check
+[2021.05.17-04.01.49:141][797]LightingResults: New page: Lighting Build
+[2021.05.17-04.01.49:150][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-04.01.49:153][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.05.17-04.01.49:154][797]LogAudio: Display: Audio Device (ID: 1) registered with world 'cenario3D'.
+[2021.05.17-04.01.49:155][797]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.17-04.01.49:155][797]LogAIModule: Creating AISystem for world cenario3D
+[2021.05.17-04.01.49:166][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.05.17-04.01.49:216][797]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-04.01.49:217][797]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.209ms to complete.
+[2021.05.17-04.01.49:217][797]LogFileHelpers: Loading map 'cenario3D' took 0.079
+[2021.05.17-04.01.49:234][797]AssetCheck: New page: Asset Save: cenario3D
+[2021.05.17-04.01.49:234][797]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/cenario3D.cenario3D
+[2021.05.17-04.02.23:822][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.05.17-04.02.28:110][ 80]LogSlate: Window 'Save Content' being destroyed
+[2021.05.17-04.02.28:145][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.17-04.02.28:149][ 80]LogSavePackage: Moving '../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/cenario3D2FDBFE444FFF6FDBBC00538BB78DD314.tmp' to '../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/ThirdPersonBP/Maps/cenario3D.umap'
+[2021.05.17-04.02.28:157][ 80]LogFileHelpers: Saving map 'cenario3D' took 0.022
+[2021.05.17-04.02.28:233][ 80]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.05.17-04.02.28:253][ 80]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.17-04.02.28:253][ 80]Cmd: MAP LOAD FILE="../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-04.02.28:253][ 80]LightingResults: New page: Lighting Build
+[2021.05.17-04.02.28:253][ 80]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.05.17-04.02.28:266][ 80]LogWorld: UWorld::CleanupWorld for cenario3D, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-04.02.28:266][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-04.02.28:266][ 80]MapCheck: New page: Map Check
+[2021.05.17-04.02.28:266][ 80]LightingResults: New page: Lighting Build
+[2021.05.17-04.02.28:274][ 80]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-04.02.28:276][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.05.17-04.02.28:277][ 80]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.17-04.02.28:282][ 80]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.17-04.02.28:282][ 80]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.17-04.02.28:301][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.05.17-04.02.28:375][ 80]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-04.02.28:375][ 80]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.224ms to complete.
+[2021.05.17-04.02.28:375][ 80]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.122
+[2021.05.17-04.02.28:412][ 80]AssetCheck: New page: Asset Save: cenario3D
+[2021.05.17-04.02.28:412][ 80]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/cenario3D.cenario3D
+[2021.05.17-04.02.36:768][413]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonBP/Maps/cenario3D.cenario3D
+[2021.05.17-04.02.36:768][413]LogObjectTools: Currently 2 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0
+[2021.05.17-04.02.36:778][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.05.17-04.02.40:880][413]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.17-04.02.40:900][413]LogWorld: UWorld::CleanupWorld for cenario3D, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-04.02.40:900][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-04.02.40:976][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.05.17-04.02.40:996][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.05.17-04.02.41:004][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.17-04.09.10:406][361]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.05.17-04.09.10:425][361]LogContentBrowser: Creating deferred item: NewWorld
+[2021.05.17-04.09.24:177][783]LogContentBrowser: Attempting asset rename: NewWorld -> cenario3D
+[2021.05.17-04.09.24:217][783]LogContentBrowser: End creating deferred item NewWorld
+[2021.05.17-04.09.42:537][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.05.17-04.10.07:426][474]LogSlate: Window 'Save Content' being destroyed
+[2021.05.17-04.10.07:454][474]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/cenario3D.cenario3D
+[2021.05.17-04.10.07:454][474]Cmd: MAP LOAD FILE="../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/ThirdPersonBP/Maps/cenario3D.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-04.10.07:454][474]LightingResults: New page: Lighting Build
+[2021.05.17-04.10.07:454][474]LoadErrors: New page: Loading map: cenario3D.umap
+[2021.05.17-04.10.07:457][474]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-04.10.07:457][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-04.10.07:457][474]MapCheck: New page: Map Check
+[2021.05.17-04.10.07:457][474]LightingResults: New page: Lighting Build
+[2021.05.17-04.10.07:488][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-04.10.07:491][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.05.17-04.10.07:492][474]LogAudio: Display: Audio Device (ID: 1) registered with world 'cenario3D'.
+[2021.05.17-04.10.07:800][474]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.17-04.10.07:800][474]LogAIModule: Creating AISystem for world cenario3D
+[2021.05.17-04.10.07:811][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.05.17-04.10.07:948][474]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-04.10.07:949][474]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.253ms to complete.
+[2021.05.17-04.10.07:949][474]LogFileHelpers: Loading map 'cenario3D' took 0.495
+[2021.05.17-04.10.23:874][203]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.17-04.10.23:885][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.17-04.10.23:885][203]PIE: New page: PIE session: cenario3D (May 16, 2021, 10:10:23 PM)
+[2021.05.17-04.10.23:885][203]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_cenario3D
+[2021.05.17-04.10.23:886][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000810s)
+[2021.05.17-04.10.23:887][203]LogAIModule: Creating AISystem for world cenario3D
+[2021.05.17-04.10.23:887][203]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2021.05.17-04.10.23:887][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/cenario3D.cenario3D to /Game/ThirdPersonBP/Maps/UEDPIE_0_cenario3D.cenario3D (0.002194s)
+[2021.05.17-04.10.23:900][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.05.17-04.10.23:901][203]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.17-04.10.23:901][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.17-04.10.23:901][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.17-04.10.23:901][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.17-04.10.23:901][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.17-04.10.23:901][203]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.17-04.10.23:901][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.17-04.10.23:901][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.17-04.10.23:901][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.17-04.10.23:901][203]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.17-04.10.23:901][203]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.17-04.10.23:904][203]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.17-04.10.23:904][203]LogAudioMixer: Display: 1: FrontRight
+[2021.05.17-04.10.23:938][203]LogAudioMixer: Display: Using Audio Device Alto-falantes (Conexant SmartAudio HD)
+[2021.05.17-04.10.23:939][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.17-04.10.23:939][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.17-04.10.23:939][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.17-04.10.23:940][203]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.17-04.10.23:940][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.17-04.10.23:940][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.17-04.10.23:941][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.17-04.10.23:941][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.17-04.10.23:941][203]LogInit: FAudioDevice initialized.
+[2021.05.17-04.10.23:941][203]LogAudio: Display: Audio Device (ID: 4) registered with world 'cenario3D'.
+[2021.05.17-04.10.23:989][203]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.17-04.10.23:990][203]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_cenario3D.cenario3D up for play (max tick rate 60) at 2021.05.17-01.10.23
+[2021.05.17-04.10.23:990][203]LogWorld: Bringing up level for play took: 0.000468
+[2021.05.17-04.10.23:991][203]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.05.17-04.10.23:995][203]PIE: Server logged in
+[2021.05.17-04.10.23:996][203]PIE: Play in editor total start time 0.114 seconds.
+[2021.05.17-04.10.30:250][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.17-04.10.30:251][519]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_cenario3D
+[2021.05.17-04.10.30:251][519]LogWorld: UWorld::CleanupWorld for cenario3D, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-04.10.30:251][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-04.10.30:263][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.17-04.10.30:265][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-04.10.30:277][519]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-04.10.30:277][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.17-04.10.30:278][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.17-04.10.30:306][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.17-04.10.30:307][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.05.17-04.10.30:333][520]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.05.17-04.10.45:331][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.05.17-04.10.48:089][104]LogSlate: Window 'Save Content' being destroyed
+[2021.05.17-04.10.48:238][104]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.05.17-04.10.48:247][104]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.17-04.10.52:598][104]LogSlate: Window 'Message' being destroyed
+[2021.05.17-04.10.52:603][104]Message dialog closed, result: Yes, title: Message, text: The unsaved level cenario3D will be lost.  Continue?
+[2021.05.17-04.10.52:603][104]Cmd: MAP LOAD FILE="../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-04.10.52:604][104]LightingResults: New page: Lighting Build
+[2021.05.17-04.10.52:604][104]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.05.17-04.10.52:606][104]LogWorld: UWorld::CleanupWorld for cenario3D, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-04.10.52:606][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-04.10.52:606][104]MapCheck: New page: Map Check
+[2021.05.17-04.10.52:606][104]LightingResults: New page: Lighting Build
+[2021.05.17-04.10.52:616][104]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-04.10.52:618][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.05.17-04.10.52:619][104]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.17-04.10.52:626][104]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.17-04.10.52:626][104]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.17-04.10.52:645][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.05.17-04.10.52:651][104]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-04.10.52:651][104]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2021.05.17-04.10.52:651][104]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.404
+[2021.05.17-04.11.47:808][659]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.05.17-04.12.09:019][254]LogSlate: Window 'ThirdPersonExampleMap_BuiltData' being destroyed
+[2021.05.17-04.12.09:026][254]LogSlate: Window 'ThirdPersonExampleMap_BuiltData' being destroyed
+[2021.05.17-04.14.09:417][837]LogSlate: Window 'New Level' being destroyed
+[2021.05.17-04.14.09:580][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.05.17-04.14.10:735][837]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-04.14.10:799][837]LightingResults: New page: Lighting Build
+[2021.05.17-04.14.10:800][837]LoadErrors: New page: Loading map: TimeOfDay_Default.umap
+[2021.05.17-04.14.10:843][837]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-04.14.10:844][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-04.14.10:844][837]MapCheck: New page: Map Check
+[2021.05.17-04.14.10:844][837]LightingResults: New page: Lighting Build
+[2021.05.17-04.14.10:896][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.17-04.14.10:966][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.05.17-04.14.12:198][837]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.05.17-04.14.12:199][837]LogAIModule: Creating AISystem for world Untitled_1
+[2021.05.17-04.14.12:265][837]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.17-04.14.12:325][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.05.17-04.14.12:349][837]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-04.14.12:349][837]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.416ms to complete.
+[2021.05.17-04.14.12:350][837]LogFileHelpers: Loading map 'TimeOfDay_Default' took 1.614
+[2021.05.17-04.16.50:693][995]Cmd: DELETE
+[2021.05.17-04.16.50:725][995]Cmd: ACTOR DELETE
+[2021.05.17-04.16.51:745][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.17-04.16.51:792][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.05.17-04.16.51:804][995]LogEditorActor: Deleted 1 Actors (0.372 secs)
+[2021.05.17-04.17.34:690][266]Cmd: DELETE
+[2021.05.17-04.17.34:690][266]Cmd: ACTOR DELETE
+[2021.05.17-04.17.34:693][266]LogEditorActor: Deleted Actor: TextRenderActor
+[2021.05.17-04.17.34:708][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.17-04.17.34:709][266]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.05.17-04.17.37:390][324]Cmd: DELETE
+[2021.05.17-04.17.37:390][324]Cmd: ACTOR DELETE
+[2021.05.17-04.17.37:392][324]LogEditorActor: Deleted Actor: TextRenderActor
+[2021.05.17-04.17.37:405][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.17-04.17.37:406][324]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.17-04.20.47:095][106]LogSlate: Window 'Save Level As' being destroyed
+[2021.05.17-04.20.47:580][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.05.17-04.20.48:688][106]LogSavePackage: Moving '../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Saved/cenario3D3F673C5E42513638FA6D2C987467306F.tmp' to '../../../../Users/Nelson/Documents/Unreal Projects/cenario3D/Content/ThirdPersonBP/Maps/cenario3D.umap'
+[2021.05.17-04.20.48:745][106]LogFileHelpers: Saving map 'cenario3D' took 1.326
+[2021.05.17-04.20.48:814][106]AssetCheck: New page: Asset Save: cenario3D
+[2021.05.17-04.20.48:814][106]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/cenario3D.cenario3D
+[2021.05.17-04.23.52:034][728]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-04.24.17:495][804]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-04.28.34:429][570]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-04.30.08:644][851]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-04.42.41:695][ 95]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-04.43.38:537][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.05.17-04.43.45:236][315]LogSlate: Window 'cenario3D - Unreal Editor' being destroyed
+[2021.05.17-04.43.45:401][315]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
